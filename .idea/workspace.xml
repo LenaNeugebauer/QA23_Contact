@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f03e7f3-e942-4e04-8a73-e81d8e891207" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/CreateAccountTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/OpenHomePageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/RemoveContactTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/CreateAccountTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/HeaderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/HeaderTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/LoginTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/OpenHomePageTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/TestBase.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9f03e7f3-e942-4e04-8a73-e81d8e891207" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +185,7 @@
       <workItem from="1645455731946" duration="12703000" />
       <workItem from="1645528390876" duration="12162000" />
       <workItem from="1645556582089" duration="24000" />
-      <workItem from="1645556861408" duration="4026000" />
+      <workItem from="1645556861408" duration="4423000" />
     </task>
     <servers />
   </component>
