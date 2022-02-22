@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f03e7f3-e942-4e04-8a73-e81d8e891207" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/CreateAccountTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/OpenHomePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/RemoveContactTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/CreateAccountTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/HeaderTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/telran/contacts/tests/HeaderTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/OpenHomePageTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/telran/contacts/TestBase.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24WTrb1TlAr0vlUMO3zftSdlo2V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.telran.contacts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Documents\GitHub\QA23_Contact\src\test_logs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests.loginRegisteredUserPositiveTest">
+    <configuration name="AddContactTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA23_Contact.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.contacts.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.contacts" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.contacts.tests.AddContactTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA23_Contact.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.contacts.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.contacts" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.contacts.tests.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.loginRegisteredUserPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA23_Contact.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.contacts.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.contacts.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.contacts.tests.LoginTests" />
+      <option name="METHOD_NAME" value="loginRegisteredUserPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveContactTests.removeContactTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA23_Contact.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.contacts.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.contacts" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.contacts.tests.RemoveContactTests" />
+      <option name="METHOD_NAME" value="removeContactTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.telran.contacts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA23_Contact.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.contacts" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.loginRegisteredUserPositiveTest" />
+        <item itemvalue="TestNG.com.telran.contacts" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.AddContactTests" />
+        <item itemvalue="TestNG.RemoveContactTests.removeContactTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f03e7f3-e942-4e04-8a73-e81d8e891207" name="Changes" comment="" />
+      <created>1643745545169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643745545169</updated>
+      <workItem from="1643745547800" duration="1832000" />
+      <workItem from="1643747408922" duration="8894000" />
+      <workItem from="1643788933254" duration="9985000" />
+      <workItem from="1644151551606" duration="2147000" />
+      <workItem from="1644153727215" duration="105000" />
+      <workItem from="1644221341309" duration="3274000" />
+      <workItem from="1644229703920" duration="69000" />
+      <workItem from="1644332280969" duration="610000" />
+      <workItem from="1644394017774" duration="983000" />
+      <workItem from="1644502953844" duration="697000" />
+      <workItem from="1644517411447" duration="6000" />
+      <workItem from="1644517433786" duration="875000" />
+      <workItem from="1644919314278" duration="717000" />
+      <workItem from="1644945671485" duration="3872000" />
+      <workItem from="1644952281975" duration="13000" />
+      <workItem from="1644998830920" duration="2931000" />
+      <workItem from="1645005521873" duration="18000" />
+      <workItem from="1645430828489" duration="462000" />
+      <workItem from="1645455731946" duration="12703000" />
+      <workItem from="1645528390876" duration="12162000" />
+      <workItem from="1645556582089" duration="24000" />
+      <workItem from="1645556861408" duration="4026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
